@@ -4,4 +4,4 @@
 
 ## To see the project
 
-[PokéAPI](https://bastien22022.github.io/Pok-mon-API/)
+[PokéAPI](https://bastien22022.github.io/Pokemon-API/)
