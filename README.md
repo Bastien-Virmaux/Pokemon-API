@@ -4,4 +4,4 @@
 
 ## To see the project
 
-<a href="[#](https://bastien22022.github.io/Pok-mon-API/)">PokéAPI</a>
+[PokéAPI](https://bastien22022.github.io/Pok-mon-API/)
